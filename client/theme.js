@@ -7,7 +7,8 @@ export const Theme = {
 };
 
 export const colors = {
-  p5jsPink: '#ed225d',
+  //  p5jsPink: '#ed225d',
+  p5jsPink: 'black',
   processingBlue: '#007BBB',
   p5jsActivePink: '#f10046',
   white: '#fff',
